@@ -1,1 +1,1 @@
-# pureMERN
+# MERN
